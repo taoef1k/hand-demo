@@ -73,7 +73,6 @@ npm run dev
 http://localhost:3000
 ```
 
-
 ## Maintainers
 
 [@taoef1k](https://github.com/taoef1k)
