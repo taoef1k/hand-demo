@@ -1,0 +1,11 @@
+{
+    "header": {
+        "chooseLanguage": "scegli la lingua:"
+    },
+    "login": {
+        "signin": "Registrazione",
+        "please-login": "Accedi al tuo account.",
+        "dont-have-account": "Non hai un account?",
+        "signup-now": "Iscriviti ora"
+    }
+}

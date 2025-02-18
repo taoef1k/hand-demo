@@ -1,0 +1,14 @@
+{
+    "header": {
+        "chooseLanguage": "Choose Language:"
+    },
+    "mainSection": {
+        "title": "Creating Multilingual React Apps with react-i18next: A Step-by-Step Guide"
+    },
+    "login": {
+        "signin": "Sign in",
+        "please-login": "Please login to your account.",
+        "dont-have-account": "Don't have an account?",
+        "signup-now": "Sign up now"
+    }
+}
